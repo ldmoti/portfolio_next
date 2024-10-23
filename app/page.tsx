@@ -196,7 +196,7 @@ export default function Home() {
           <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center text-white">Get in Touch</h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-lg mb-12 text-center text-white">
-              I'm always open to new opportunities and collaborations. Feel free to reach out!
+              I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
             </p>
             <div className="bg-white bg-opacity-10 p-6 rounded-lg">
               <form className="flex flex-col" action="#" method="post">
