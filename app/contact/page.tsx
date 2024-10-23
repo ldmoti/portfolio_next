@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
   return (
     <main className="min-h-screen bg-cover bg-center bg-no-repeat bg-fixed" style={{
-      backgroundImage: "url('/images/Modern Software Development Illustration With Tech Icons And Text.png')",
+      backgroundImage: "url('/images/Modern Software Development Illustration With Tech Icons And Text.png')".replace(/&/g, '&amp;'),
     }}>
       <div className="backdrop-blur-sm bg-black bg-opacity-50 min-h-screen p-8 md:p-16">
         <div className="max-w-4xl mx-auto">
